@@ -19,5 +19,6 @@ def vig(s,keyword):
     return newstring
 
 
+# Testing
 test_vig = vig("abcabc","aaa")
 print(test_vig)
